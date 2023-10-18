@@ -1,0 +1,22 @@
+
+.Editor{
+    background-color: rgb(249, 171, 36);
+
+}
+.Previewer{
+    background-color: rgb(249, 171, 36);
+}
+.toolbar{
+    display:flex;
+}
+
+.expand:hover{
+    color:white;
+    cursor: pointer;
+}
+i{
+padding: 10px;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
